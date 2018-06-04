@@ -10,8 +10,13 @@ editor: reiter
 Angaben gemäß § 5 TMG
 
 <address>
-Koordinator des Schwerpunktprogramms Computational Literary Studies
-Prof. Dr. Fotis Jannidis
+Koordinator des Schwerpunktprogramms Computational Literary Studies<br/>
+Prof. Dr. Fotis Jannidis<br/>
+Institut für Deutsche Philologie<br/>
+Philosophische Fakultät I <br/>
+Universität Würzburg<br/>
+Am Hubland <br/>
+97074 Würzburg
 </address>
 
 ## Datenschutz

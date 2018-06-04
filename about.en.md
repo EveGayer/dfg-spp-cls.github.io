@@ -11,7 +11,13 @@ This web page is operated by:
 
 <address>
 Coordinator of the SPP CLS<br/>
-Prof. Dr. Fotis Jannidis
+Prof. Dr. Fotis Jannidis<br/>
+Institut für Deutsche Philologie<br/>
+Philosophische Fakultät I <br/>
+Universität Würzburg<br/>
+Am Hubland <br/>
+97074 Würzburg<br/>
+Germany
 </address>
 
 
