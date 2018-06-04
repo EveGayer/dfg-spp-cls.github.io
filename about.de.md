@@ -14,12 +14,6 @@ Koordinator des Schwerpunktprogramms Computational Literary Studies
 Prof. Dr. Fotis Jannidis
 </address>
 
-### Kontakt
-Dr. Nils Reiter<br/>
-Telefon: 0711 68581354<br/>
-E-Mail: [nils.reiter@ims.uni-stuttgart.de](mailto:nils.reiter@ims.uni-stuttgart.de)
-
-
 ## Datenschutz
 
 Wir speichern keine Informationen über die Besucher dieser Webseite.
