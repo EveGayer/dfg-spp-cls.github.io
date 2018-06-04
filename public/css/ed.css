@@ -357,8 +357,9 @@ h3.masthead-title {
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 1rem; /* 15px */
-  color: rgba(255,255,255,.6);
+  color: #454545; /*rgba(255,255,255,.6);*/
   background-color: #202020;
+  border-right: thin solid rgba(0,0,0,0.1);
   /*-webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;*/
 }
@@ -406,7 +407,7 @@ a.sidebar-nav-item-toc {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(0,0,0,0.1);
   border-color: transparent;
 }
 
