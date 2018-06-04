@@ -1,0 +1,394 @@
+/* Blue */
+.theme-base-0d .sidebar,
+.theme-base-0d .sidebar-toggle:active {
+  background-color: #416FB8;
+}
+.theme-base-0d .container a,
+.theme-base-0d .sidebar-toggle,
+.theme-base-0d .related-posts li a:hover {
+  color: #416FB8;
+}
+
+body {
+  counter-reset: cnt_figure;
+  counter-reset: cnt_table;
+}
+
+.figure {
+  counter-increment: cnt_figure;
+}
+
+html:lang(de) span.ref-figure:before {
+  content: "Abbildung " counter(cnt_figure);
+}
+
+html:lang(en) span.ref-figure:before {
+  content: "Figure " counter(cnt_figure);
+}
+
+html:lang(de) span.ref-table:before {
+  content: "Tabelle " counter(cnt_table);
+}
+
+html:lang(en) span.ref-table:before {
+  content: "Table " counter(cnt_table);
+}
+
+
+
+.table {
+  counter-increment: cnt_table;
+}
+
+.caption {
+  font-size:0.9em;
+}
+
+.caption:before {
+  font-weight:bold;
+}
+
+div.footnotes {
+  border-top: solid   #454545 1px;
+  padding-top:20px;
+}
+
+html:lang(en) .figure .caption:before {
+  content: "Figure " counter(cnt_figure) ": ";
+}
+
+html:lang(en) .table .caption:before {
+  content: "Table " counter(cnt_table) ": ";
+}
+
+html:lang(de) .figure .caption:before {
+  content: "Abbildung " counter(cnt_figure) ": ";
+}
+
+html:lang(de) .table .caption:before {
+  content: "Tabelle " counter(cnt_table) ": ";
+}
+
+pre.highlight {
+  background-color: #EEE;
+}
+
+.headline {
+  font-size: 0.9rem;
+  color:#909090;
+  margin-top:0px !important;
+  margin-bottom:0px !important;
+}
+.headline .left {
+  float:left;
+}
+.headline .right {
+  float:right;
+}
+
+.right_aligned {
+  text-align:right;
+}
+
+a.catlink {
+  color: #909090 !important;
+}
+
+.post h2 {
+  margin-top:50px;
+}
+
+ul.posts {
+  list-style: none;
+  padding-left:0;
+}
+
+.posts li {
+  clear:left;
+  height:100%;
+  margin-bottom:35px;
+}
+
+.posts li div {
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.posts li p {
+  margin-bottom:3px;
+}
+
+.posts li p.date {
+  font-size:0.8rem;
+  color:#999;
+}
+
+
+.posts li p.title {
+  font-size:1.1rem;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+
+.posts li div img {
+  position:relative;
+  top:-10px;
+  border:thin solid #454545;
+  float:left;
+  width:auto;
+  margin-right:20px;
+  max-width:150px;
+  max-height:120px;
+}
+
+.postlogo {
+  float:right;
+  border:thin solid #454545;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.qd_title {
+  font-style: italic;
+}
+
+/**
+ * publications
+ */
+
+.publication {
+}
+
+.publication span.booktitle {
+  font-style: italic;
+}
+
+.publication span.title {
+  font-weight: bold;
+}
+
+.publication span.journal {
+  font-style: italic;
+}
+
+.publication .abstract {
+  font-size:0.8em;
+}
+
+.publication .status {
+	font-style: italic;
+}
+
+/**
+ * talks
+ */
+
+.talk {
+  margin-bottom:30px;
+}
+
+.talk .title {
+  font-weight: bold;
+}
+
+
+
+/**
+ * inline tab
+ */
+
+.itab {
+  list-style: none;
+  width:100%;
+  color:white;
+  background-color: #416FB8;
+  margin:0 auto;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.itab > * {
+  display: inline-flex;
+  padding:8px;
+  margin:0 auto;
+  text-align: center;
+}
+
+ul.itab > * > a {
+  color:white !important;
+  text-decoration: none;
+}
+
+ul.itab li:hover,
+ul.itab li.active {
+  background-color: rgba(255,255,255,.3);
+}
+
+/**
+ * about > logos
+ */
+
+div.logoline {
+  text-align: center;
+}
+
+div.logoline img {
+  display:inline-block;
+  margin-right:15px;
+  border-radius: 0;
+  height:50px;
+}
+
+/**
+ * languages
+ */
+
+.sidebar div ul.languages {
+  margin:0 auto;
+  padding:0;
+  width:100%;
+}
+
+.sidebar div ul.languages li {
+  margin:0 auto;
+  display:inline-block;
+  padding:5px;
+}
+
+.sidebar ul.languages .en:lang(en), .fr:lang(fr), .de:lang(de){
+  background-color: rgba(255, 255, 255, .1);
+}
+
+/*
+ * tables
+ */
+table,
+div.table > div {
+  font-size: 14px;
+}
+
+.dataTables_wrapper .dataTables_paginate a.paginate_button:hover {
+  background: #416FB866;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  padding:0;
+  border-width:0;
+  background: rgba(0,0,0,0);
+}
+
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+  background: #416FB8 !important;
+  color: white !important;
+}
+
+
+/**
+ *  highcharts styling
+ */
+
+svg.highcharts-root text {
+  fill: #454545;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+svg .highcharts-plot-border {
+  opacity:0;
+}
+svg .highcharts-plot-background,
+svg .highcharts-background {
+  fill: #FFF;
+}
+
+svg .highcharts-color-0 { fill: #781C81; stroke: #781C81; }
+svg .highcharts-color-1 { fill: #43328D; stroke: #43328D; }
+svg .highcharts-color-2 { fill: #416FB8; stroke: #416FB8; }
+svg .highcharts-color-3 { fill: #519CB8; stroke: #519CB8; }
+svg .highcharts-color-4 { fill: #70B484; stroke: #70B484; }
+svg .highcharts-color-5 { fill: #99BD5C; stroke: #99BD5C; }
+svg .highcharts-color-6 { fill: #C3BA45; stroke: #C3BA45; }
+svg .highcharts-color-7 { fill: #E0A239; stroke: #E0A239; }
+svg .highcharts-color-8 { fill: #E66B2D; stroke: #E66B2D; }
+svg .highcharts-color-9 { fill: #D92120; stroke: #D92120; }
+
+g.highcharts-axis path.highcharts-axis-line {
+  fill: #FFF;
+  stroke: #454545;
+  opacity: 0;
+}
+
+.highcharts-axis-line {
+  fill:blue;
+  opacity:1;
+}
+
+g.highcharts-yaxis-grid path.highcharts-grid-line {
+  stroke: #CCC;
+  stroke-width:1px;
+}
+
+g.highcharts-xaxis-grid path.highcharts-grid-line {
+  stroke: #CCC;
+  stroke-width:0px;
+}
+
+
+
+g.highcharts-grid path.highcharts-grid-line {
+  fill:#FFF;
+  fill-opacity:0;
+}
+.highcharts-tooltip-box {
+	fill: #FFF;
+	fill-opacity: 0.9;
+	stroke-width: 0;
+}
+.highcharts-tooltip text {
+  stroke-width: 0;
+  font-size:0.7em;
+}
+
+g.highcharts-axis-labels text { font-size:12px; }
+
+.highcharts-line-series.highcharts-series {
+  fill-opacity:0;
+}
+
+.highcharts-boxplot-series path {
+  stroke: #454545;
+  fill-opacity:0;
+}
+
+.highcharts-boxplot-series path.highcharts-boxplot-median {
+  stroke: #454545;
+  stroke-width: 2px;
+  fill-opacity:0;
+}
+
+.highcharts-legend-box { fill: white; fill-opacity:0; }
+.highcharts-legend-item:hover { cursor: pointer; }
+.highcharts-legend-item text { stroke-width:0; font-size:12px; }
+.highcharts-legend-item-hidden text { fill-opacity:0.5; }
+.highcharts-legend-item-hidden path { fill: #CCC; stroke: #CCC; }
+.highcharts-legend-item-hidden text { stroke: #CCC; }
+
+svg text.highcharts-credits {
+  font-size:8px;
+  fill: #CCCCCC;
+}
+
+/**
+ * qd-spiderweb
+ */
+
+div.qd-spiderweb g.highcharts-xaxis-grid path.highcharts-grid-line {
+  stroke: #CCC;
+  stroke-width:1px;
+}
+
+
+/**
+ * qd-boxplot
+ */

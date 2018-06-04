@@ -1,0 +1,11 @@
+name: DFG SPP Computational Literary Studies
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+title: SPP CLS
+description: Schwerpunktprogramm Computational Literary Studies
+array: []
+collections:
+  publications:
+    output: true
+  talks:
+    output: false
