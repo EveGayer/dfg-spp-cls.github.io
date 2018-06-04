@@ -10,7 +10,7 @@ editor: reiter
 This web page is operated by:
 
 <address>
-Coordinator of the SPP CLS
+Coordinator of the SPP CLS<br/>
 Prof. Dr. Fotis Jannidis
 </address>
 

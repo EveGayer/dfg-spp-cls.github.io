@@ -6,29 +6,6 @@
 <div class="sidebar" id="sidebar">
 
   <div class="sidebar-item">
-  {% if page.layout == "pub" %}
-  <ul class="languages">
-  <li class="{{ page.lang }}">{% include language.html lang=page.lang %}</li>
-  </ul>
-  {% else %}
-  <ul class="languages">
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %}
-    <li class="{{ page.lang }}">
-      <a href="{{ page.url }}">{% include language.html lang=page.lang %}</a>
-    </li>
-  {% endfor %}
-  {% assign pages=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %}
-    <li class="{{ page.lang }}">
-      <a href="{{ page.url }}">{% include language.html lang=page.lang %}</a>
-    </li>
-  {% endfor %}
-  </ul>
-  {% endif %}
-  </div>
-
-  <div class="sidebar-item">
     {{ site.description }}
   </div>
 
@@ -78,19 +55,16 @@
 
     <!-- The code below is used for manually entered links  -->
 
-    <div class="sidebar-nav-item">
-    <a href="https://github.com/quadrama" target="_blank">github.com/quadrama</a>
-  </div>
     <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
 
     <div class="sidebar-nav-item" style="margin-top:100px;">
       <div style="font-size:10px;margin-bottom:10px;">{% if page.lang == "de" %}
         Gefördert von der
       {% else %}
-        Funded by Volkswagen Foundation
+        Funded by
       {% endif %}</div>
 
-      <div><a href="https://www.volkswagenstiftung.de" alt="VolkswagenStiftung" title="VolkswagenStiftung"><img src="{{site.url}}/assets/about/VWST_rgb_100_weiss.png"></a></div>
+      <div><a href="http://www.dfg.de" alt="Deutsche Forschungsgemeinschaft" title="DFG"><img src="{{site.url}}/assets/dfg.jpg"></a></div>
     </div>
   </nav>
 
