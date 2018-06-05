@@ -1,11 +1,8 @@
 ---
 title: "Proposal"
-authors:
-- Fotis Jannidis
-layout: default
+layout: page
 lang: en
 ref: proposal
-index: true
 ---
 
 

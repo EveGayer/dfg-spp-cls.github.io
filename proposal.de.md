@@ -1,11 +1,8 @@
 ---
 title: "Antragstext"
-authors:
-- Fotis Jannidis
-layout: default
+layout: page
 lang: de
 ref: proposal
-index: true
 ---
 
 
