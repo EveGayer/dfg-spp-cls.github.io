@@ -99,6 +99,10 @@ a, .post-title a {
   text-decoration: none;
 }
 
+div.content a {
+	text-decoration: underline;
+}
+
 a strong {
   color: inherit;
 }
