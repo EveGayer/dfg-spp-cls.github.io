@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+mtitle: Home
 lang: en
 order: 0
 ref: home

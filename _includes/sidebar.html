@@ -59,7 +59,7 @@
       {% assign translation = site.pages | where:"ref", node.ref | where:"lang", page.lang %}
       {% if node.layout == "page" %}
         {% if translation[0] %}
-          <a class="sidebar-nav-item{% if page.url == translation[0].url %} active{% endif %}" href="{{ site.baseurl }}{{ translation[0].url }}">{{ translation[0].title }}</a>
+          <a class="sidebar-nav-item{% if page.url == translation[0].url %} active{% endif %}" href="{{ site.baseurl }}{{ translation[0].url }}">{% if translation[0].mtitle %}{{ translation[0].mtitle }}{% else %}{{ translation[0].title }}{% endif %}</a>
           {% if node.ref == "blog" %}
             {% for node2 in pages_list %}
             {% if node2.layout == "tagpage" %}
