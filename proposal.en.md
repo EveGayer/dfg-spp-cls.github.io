@@ -2,6 +2,7 @@
 title: "Proposal"
 layout: page
 lang: en
+order: 1
 ref: proposal
 ---
 

@@ -2,6 +2,7 @@
 title: "Antragstext"
 layout: page
 lang: de
+order: 1
 ref: proposal
 ---
 
