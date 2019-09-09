@@ -8,7 +8,7 @@ editor: reiter
 
 [Prof. Dr. Fotis Jannidis](http://www.jannidis.de), Julius-Maximilians-Universität Würzburg, Professor, Computerphilologie (Koordinator)
 
-[Dr. Evelyn Gius](https://www.slm.uni-hamburg.de/germanistik/personen/gius.html), Universität Hamburg, wissenschaftliche Mitarbeiterin, Literaturwissenschaft
+[Prof. Dr. Evelyn Gius](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/gius/), Technische Universität Darmstadt, Professorin, Digital Philology
 
 [Prof. Dr. Jonas Kuhn](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/jonas/), Universität Stuttgart, Professor, Informatik/Computerlinguistik
 
