@@ -1,8 +1,8 @@
 name: DFG SPP Computational Literary Studies
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-title: SPP CLS
-description: Schwerpunktprogramm Computational Literary Studies
+title: CLS
+description: DFG Schwerpunktprogramm
 array: []
 collections:
   publications:
