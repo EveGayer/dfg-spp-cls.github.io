@@ -12,7 +12,7 @@ layout: post
 Dieses explorativ konzipierte Projekt beschäftigt sich mit der
 Identifizierung und Charakterisierung von Schlüsselstellen in
 literarischen Werken. Wir verstehen darunter Passagen, die für die
-Textinterpretation von Expertenleser*innen besonders wichtig sind. In
+Textinterpretation von Expertenleser\*innen besonders wichtig sind. In
 einem Mixed-Methods-Ansatz wollen wir vorrangig empirisch untersuchen,
 welche textuellen Merkmale literarischer Genres sich durch Zitat- und
 Zitiermuster ergeben. Zweitens wollen wir untersuchen, ob sich
@@ -45,8 +45,8 @@ Gattungsgeschichtliche Aspekte werden eine wichtige Rolle spielen, da
 wir kanonische Annahmen über die Struktur von narrativen und
 dramatischen Texten berücksichtigen.Das Projekt ist in drei
 Arbeitspakete gegliedert, die auf drei literarische Korpora abgestimmt
-sind. Jedes Arbeitspaket enthält Aufgaben für Informatiker*innen und
-Literaturwissenschaftler*innen. Die technischen Aufgaben konzentrieren
+sind. Jedes Arbeitspaket enthält Aufgaben für Informatiker\*innen und
+Literaturwissenschaftler\*innen. Die technischen Aufgaben konzentrieren
 sich vor allem auf die Entwicklung von Methoden zur Extraktion,
 Anreicherung und Analyse von Daten. Von literaturwissenschaftlicher
 Seite werden insbesondere etablierte Theorien auf der Grundlage der
