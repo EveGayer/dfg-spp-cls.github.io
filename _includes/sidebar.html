@@ -5,9 +5,17 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
 
-<div class="sidebar-nav-item">
-  <div class="logoline"><a href="dfg-spp-cls.github.io" alt="Computational Literary Studies" title="CLS"><img src="{{site.url}}/assets/logo.png"></a></div>
-</div>
+<header>
+  <div class="sidebar-nav-item">
+    <div class="logoline"><a href="dfg-spp-cls.github.io" alt="Computational Literary Studies" title="CLS"><img src="{{site.url}}/assets/logo.png"></a></div>
+  </div>
+<!--
+  <div class="sidebar-item" style="text-align:center">
+    {{ site.description }}
+  </div>
+-->
+</header>
+
 
 <div class="sidebar-item">
   {% if page.layout == "pub" %}
@@ -30,10 +38,6 @@
   {% endfor %}
   </ul>
   {% endif %}
-  </div>
-
-  <div class="sidebar-item">
-    {{ site.description }}
   </div>
 
 
