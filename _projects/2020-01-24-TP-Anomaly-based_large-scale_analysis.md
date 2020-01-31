@@ -1,11 +1,10 @@
 ---
-title: Research Project
-lang: en
-ref: announcement
-layout: post
+layout: project
+title: Anomaly-based large-scale analysis of style and genre reflected in the use of stylistic devices in medieval literature
+excerpt: "Joachim Denzler & Sophie Marschall"
+modified: 2/24/2020, 9:00:24
+category: blog
 ---
-
-## Anomaly-based large-scale analysis of style and genre reflected in the use of stylistic devices in medieval literature
 
 ***Joachim Denzler & Sophie Marschall***
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Zeta and Company - Measures of Distinctiveness for Computational Literary Studies
 excerpt: "Christof Schöch"
 modified: 2/24/2020, 9:00:24

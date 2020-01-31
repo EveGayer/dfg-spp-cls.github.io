@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: project
 title: Relating the Unread - Network Models in Literary History
 excerpt: "Thomas Weitin"
 modified: 2/24/2020, 9:00:24
 category: blog
 ---
-
-## Relating the Unread - Network Models in Literary History
 
 ***Thomas Weitin***
 

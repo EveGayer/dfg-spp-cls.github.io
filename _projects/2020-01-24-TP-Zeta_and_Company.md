@@ -1,11 +1,10 @@
 ---
-title: Research Project
-lang: en
-ref: announcement
-layout: post
+layout: project
+title: Zeta and Company - Measures of Distinctiveness for Computational Literary Studies
+excerpt: "Christof Schöch"
+modified: 2/24/2020, 9:00:24
+category: blog
 ---
-
-## Zeta and Company - Measures of Distinctiveness for Computational Literary Studies
 
 ***Christof Schöch***
 
