@@ -1,8 +1,9 @@
 ---
-title: Ausschreibung
-lang: de
-ref: announcement
 layout: post
+title: Ausschreibung
+excerpt: "Der Senat der Deutschen Forschungsgemeinschaft (DFG) hat im März 2018 die Einrichtung des Schwerpunktprogramms „Computational Literary Studies“ (SPP 2207) beschlossen."
+modified: 6/15/2018, 9:00:24
+category: blog
 ---
 
 ## Schwerpunktprogramm „Computational Literary Studies“ (SPP 2207)
