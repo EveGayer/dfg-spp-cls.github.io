@@ -1,3 +1,4 @@
+---
 layout: project
 title: Emotions in Drama
 excerpt: "Christian Wolff & Katrin Dennerlein"
