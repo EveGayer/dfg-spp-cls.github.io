@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Relating the Unread - Network Models in Literary History
-excerpt: "Thomas Weitin"
+excerpt: "Ulrik Brandes & Thomas Weitin"
 modified: 2/24/2020, 9:00:24
 category: blog
 ---
 
-***Thomas Weitin***
+***Ulrik Brandes & Thomas Weitin***
 
 In a mixed methods approach to literary history, we intend to use network models of text relations to study how groupings emerge relative to the way text corpora have been compiled.
 
