@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Anomaly-based large-scale analysis of style and genre reflected in the use of stylistic devices in medieval literature
-excerpt: "Joachim Denzler & Sophie Marschall"
+excerpt: "Joachim Denzler & Sophie Marshall"
 modified: 2/24/2020, 9:00:24
 category: blog
 ---
 
-***Joachim Denzler & Sophie Marschall***
+***Joachim Denzler & Sophie Marshall***
 
 The goal of this project is the development of a novel distant-reading tool for the
 quantitative analysis of the use of rhetorical devices. The developed methods will be applied
