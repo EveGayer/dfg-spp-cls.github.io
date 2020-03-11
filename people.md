@@ -12,7 +12,7 @@ excerpt: "People"
 
 [Prof. Dr. Jonas Kuhn](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/jonas/), Universität Stuttgart, Professor, Informatik/Computerlinguistik
 
-[Dr. Nils Reiter](http://www.nilsreiter.de), Universität Stuttgart, wissenschaftlicher Mitarbeiter, Computerlinguistik/Digital Humanities
+[Dr. Nils Reiter](http://www.nilsreiter.de), Universität zu Köln, Vertretungsprofessur, Computerlinguistik/Digital Humanities
 
 [Prof. Dr. Christof Schöch](https://christof-schoech.de), Universität Trier, Professor, Digital Humanities
 
